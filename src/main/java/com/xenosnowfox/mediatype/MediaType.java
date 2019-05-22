@@ -309,4 +309,3 @@ public class MediaType {
         return sb.toString();
     }
 }
-
